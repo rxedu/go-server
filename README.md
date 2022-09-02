@@ -2,11 +2,9 @@
 
 [![GitHub Actions](https://github.com/rxedu/go-server/workflows/main/badge.svg)](https://github.com/rxedu/go-server/actions)
 
-Go HTTP server.
-
 ## Description
 
-TODO
+[freeCodeCamp Learn Go Programming by Building 11 Projects](https://www.freecodecamp.org/news/learn-go-by-building-11-projects/)
 
 ## Installation
 
