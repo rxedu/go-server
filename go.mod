@@ -1,3 +1,3 @@
-module github.com/rxedu/go-server/v1
+module github.com/rxedu/go-server
 
 go 1.19
